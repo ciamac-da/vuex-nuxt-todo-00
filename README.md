@@ -1,5 +1,7 @@
 # vuex-nuxt-todo-00
 
+![](assets/1.jpg)
+
 ## Build Setup
 
 ```bash
